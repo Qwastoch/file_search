@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/MySearchEngine/v16/Server/sqlite3
+/.vs/MySearchEngine/v16
+/obj/Debug
